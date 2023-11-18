@@ -1,3 +1,3 @@
 function function1() {
-	window.open('assets/resume-example.pdf');
+	window.open('resume-example.pdf');
 }
