@@ -1,3 +1,3 @@
 function function1() {
-	window.open('resume.docx');
+	window.open('resume.pdf');
 }
