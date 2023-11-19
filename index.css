@@ -254,3 +254,8 @@ footer p {
 	grid-gap: 2rem;
 	margin-bottom: 2rem;
 }
+
+.contact-message {
+	display:flex;
+	justify-content: center;
+}
